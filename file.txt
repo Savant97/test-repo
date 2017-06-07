@@ -3,3 +3,4 @@ Example of
 txt file for practising
 This line is new when i press the edit file
 Anothe new line
+Here add a new line for branch 2
