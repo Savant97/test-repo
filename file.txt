@@ -1,2 +1,3 @@
 Example of
 txt file for practising
+This line is new when i press the edit file
